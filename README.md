@@ -5,3 +5,4 @@
 Инструкции внутри папок.
 
 Есть вопросы и предложения?
+https://github.com/Dizer7/sahifa_ru/issues
