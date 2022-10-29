@@ -1,0 +1,5 @@
+Подключение русификации для плагина Taqyeem - Buttons Addon
+
+Загрузите файл taq-ru_RU.mo
+
+в папку: /wp-content/plugins/taqyeem-buttons/languages/

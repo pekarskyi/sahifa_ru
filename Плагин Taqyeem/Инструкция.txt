@@ -1,0 +1,5 @@
+Подключение русификации для плагина Taqyeem
+
+Загрузите файл taq-ru_RU.mo
+
+в папку: /wp-content/plugins/taqyeem/languages/

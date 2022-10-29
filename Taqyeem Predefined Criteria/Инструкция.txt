@@ -1,0 +1,5 @@
+Подключение русификации для плагина Taqyeem Predefined Criteria
+
+Загрузите файл taq-ru_RU.mo
+
+в папку: /wp-content/plugins/taqyeem-predefined/languages/
