@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taqyeem - Buttons Addon v1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-01-08 07:09+0200\n"
+"Last-Translator: Николай Пекарский <dizer7@gmail.com>\n"
+"Language-Team: Николай Пекарский <dizer7@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ taq
+#: taqyeem-buttons.php:29
+msgid "&quot;Taqyeem Buttons&quot; plugin is an extension for and requires <a href=\"http://codecanyon.net/item/taqyeem-wordpress-review-plugin/4558799?ref=tielabs\">Taqyeem Plugin</a>"
+msgstr "Плагин \"Taqyeem Buttons\" является продолжением и требует <a href=\"http://codecanyon.net/item/taqyeem-wordpress-review-plugin/4558799?ref=tielabs\">Taqyeem Plugin</a>"
+
+# @ taq
+#: taqyeem-buttons.php:36
+msgid "&quot;Taqyeem Buttons&quot; plugin requires <a href=\"http://codecanyon.net/item/taqyeem-wordpress-review-plugin/4558799?ref=tielabs\">Taqyeem Plugin</a> Version 2.1 or above."
+msgstr "Плагин \"Taqyeem Buttons\" требует <a href=\"http://codecanyon.net/item/taqyeem-wordpress-review-plugin/4558799?ref=tielabs\">Taqyeem Plugin</a> версии 2.1 или выше."
+
+# @ taq
+#: taqyeem-buttons.php:111 taqyeem-buttons.php:122
+msgid "Buttons Settings"
+msgstr "Настройки кнопок"
+
+# @ taq
+#: taqyeem-buttons.php:124
+msgid "FontAwesome Icons"
+msgstr "Иконки FontAwesome"
+
+# @ taq
+#: taqyeem-buttons.php:128
+msgid "Don't include the FontAwesome icon set files"
+msgstr "Не включать набор файлов иконок FontAwesome"
+
+# @ taq
+#: taqyeem-buttons.php:133
+msgid "Enable this option if your theme already includes it."
+msgstr "Включите этот параметр, если тема уже включает его."
+
+# @ taq
+#: taqyeem-buttons.php:147
+msgid "Download"
+msgstr "Скачать"
+
+# @ taq
+#: taqyeem-buttons.php:152
+msgid "Learn More"
+msgstr "Узнать больше"
+
+# @ taq
+#: taqyeem-buttons.php:157
+msgid "Warning"
+msgstr "Предупреждение"
+
+# @ taq
+#: taqyeem-buttons.php:162
+msgid "Like"
+msgstr "Нравится"
+
+# @ taq
+#: taqyeem-buttons.php:167
+msgid "Follow"
+msgstr "Подписаться"
+
+# @ taq
+#: taqyeem-buttons.php:172
+msgid "Danger"
+msgstr "Предупреждение"
+
+# @ taq
+#: taqyeem-buttons.php:177
+msgid "Contact"
+msgstr "Контакты"
+
+# @ taq
+#: taqyeem-buttons.php:182
+msgid "Shop Now"
+msgstr "Начать покупки"
+
+# @ taq
+#: taqyeem-buttons.php:187
+msgid "View Now"
+msgstr "Посмотреть сейчас"
+
+# @ taq
+#: taqyeem-buttons.php:259
+msgid "Button Preview"
+msgstr "Предварительный просмотр кнопки"
+
+# @ taq
+#: taqyeem-buttons.php:280
+msgid "Add Button?"
+msgstr "Добавить кнопку?"
+
+# @ taq
+#: taqyeem-buttons.php:293
+msgid "Predefined Buttons"
+msgstr "Готовые кнопки"
+
+# @ taq
+#: taqyeem-buttons.php:313
+msgid "Button text"
+msgstr "Текст на кнопке"
+
+# @ taq
+#: taqyeem-buttons.php:320
+msgid "Button URL"
+msgstr "Ссылка кнопки"
+
+# @ taq
+#: taqyeem-buttons.php:327
+msgid "Open links in a new window ?"
+msgstr "Открыть ссылки в новом окне?"
+
+# @ taq
+#: taqyeem-buttons.php:334
+msgid "Nofollow?"
+msgstr "Nofollow?"
+
+# @ taq
+#: taqyeem-buttons.php:341
+msgid "Button Size"
+msgstr "Размер кнопки"
+
+# @ taq
+#: taqyeem-buttons.php:345
+msgid "Medium"
+msgstr "Средняя"
+
+# @ taq
+#: taqyeem-buttons.php:346
+msgid "Small"
+msgstr "Маленькая"
+
+# @ taq
+#: taqyeem-buttons.php:347
+msgid "Large"
+msgstr "Большая"
+
+# @ taq
+#: taqyeem-buttons.php:352
+msgid "Button Shape"
+msgstr "Форма кнопки"
+
+# @ taq
+#: taqyeem-buttons.php:356
+msgid "Square"
+msgstr "Квадратная"
+
+# @ taq
+#: taqyeem-buttons.php:357
+msgid "Round"
+msgstr "Круглая"
+
+# @ taq
+#: taqyeem-buttons.php:358
+msgid "Pill"
+msgstr "Овальная"
+
+# @ taq
+#: taqyeem-buttons.php:363
+msgid "Button Type"
+msgstr "Тип кнопки"
+
+# @ taq
+#: taqyeem-buttons.php:367
+msgid "Flat"
+msgstr "Плоская"
+
+# @ taq
+#: taqyeem-buttons.php:368
+msgid "Gradient"
+msgstr "Градиент"
+
+# @ taq
+#: taqyeem-buttons.php:373
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+# @ taq
+#: taqyeem-buttons.php:399
+msgid "Button Icon"
+msgstr "Иконка кнопки"

@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taqyeem Predefined Criteria v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-01-08 07:24+0200\n"
+"Last-Translator: Николай Пекарский <dizer7@gmail.com>\n"
+"Language-Team: Николай Пекарский <dizer7@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ taq
+#: taqyeem-predefined.php:27
+msgid "&quot;Taqyeem Predefined Criteria&quot; plugin is an extension for and requires  <a href=\"http://codecanyon.net/item/taqyeem-wordpress-review-plugin/4558799?ref=tielabs\">Taqyeem Plugin</a>"
+msgstr "&quot;Taqyeem Predefined Criteria&quot; плагин является расширением и для его работы необходим плагин <a href=\"http://codecanyon.net/item/taqyeem-wordpress-review-plugin/4558799?ref=tielabs\">Taqyeem Plugin</a>"
+
+# @ taq
+#: taqyeem-predefined.php:32
+msgid "&quot;Taqyeem Predefined Criteria&quot; plugin requires <a href=\"http://codecanyon.net/item/taqyeem-wordpress-review-plugin/4558799?ref=tielabs\">Taqyeem Plugin</a> Version 2.0 or above."
+msgstr "Для плагина &quot;Taqyeem Predefined Criteria&quot; необходим плагин <a href=\"http://codecanyon.net/item/taqyeem-wordpress-review-plugin/4558799?ref=tielabs\">Taqyeem Plugin</a> версия 2.0 или выше."
+
+# @ taq
+#: taqyeem-predefined.php:51 taqyeem-predefined.php:137
+msgid "Add Another Review Criteria"
+msgstr "Добавить еще один критерий оценки"
+
+# @ taq
+#: taqyeem-predefined.php:51
+msgid "Enter The Set Name"
+msgstr "Введите название набора"
+
+# @ taq
+#: taqyeem-predefined.php:73
+msgid "Select Predefined Criteria Set"
+msgstr "Выберите набор готовых критериев"
+
+# @ taq
+#: taqyeem-predefined.php:100 taqyeem-predefined.php:111
+msgid "Predefined Criteria"
+msgstr "Готовые критерии"
+
+# @ taq
+#: taqyeem-predefined.php:113
+msgid "Add New Review Criteria Set"
+msgstr "Добавить новый набор критериев оценки"
+
+# @ taq
+#: taqyeem-predefined.php:124 taqyeem-predefined.php:132
+msgid "Delete"
+msgstr "Удалить"
+
+# @ taq
+#: taqyeem-predefined.php:130
+msgid "Review Criteria"
+msgstr "Критерий оценки"
