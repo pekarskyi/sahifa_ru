@@ -1,0 +1,762 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taqyeem v2.6.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-01-08 07:20+0200\n"
+"Last-Translator: Николай Пекарский <dizer7@gmail.com>\n"
+"Language-Team: Николай Пекарский <dizer7@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ taq
+#: taqyeem-panel.php:39 taqyeem-posts.php:366
+msgid "Review Criteria"
+msgstr "Критерий оценки"
+
+# @ taq
+#: taqyeem-panel.php:39 taqyeem-posts.php:369
+msgid "Criteria Score"
+msgstr "Критерий оценки"
+
+# @ taq
+#: taqyeem-panel.php:39 taqyeem-posts.php:372
+msgid "Delete"
+msgstr "Удалить"
+
+# @ taq
+#: taqyeem-panel.php:142 taqyeem-panel.php:143
+msgid "Settings"
+msgstr "Настройки"
+
+# @ taq
+#: taqyeem-panel.php:144
+msgid "Documentation"
+msgstr "Документация"
+
+# @ taq
+#: taqyeem-panel.php:377
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+# @ taq
+#: taqyeem-panel.php:393
+msgid "Start"
+msgstr "Начало"
+
+# @ taq
+#: taqyeem-panel.php:394 taqyeem-panel.php:456
+msgid "General Settings"
+msgstr "Общие настройки"
+
+# @ taq
+#: taqyeem-panel.php:397 taqyeem-panel.php:536 taqyeem-panel.php:539
+msgid "Styling"
+msgstr "Внешний вид"
+
+# @ taq
+#: taqyeem-panel.php:398 taqyeem-panel.php:618 taqyeem-panel.php:652
+msgid "Typography"
+msgstr "Шрифты"
+
+# @ taq
+#: taqyeem-panel.php:403 taqyeem-panel.php:694
+msgid "Advanced Settings"
+msgstr "Расширенные настройки"
+
+# @ taq
+#: taqyeem-panel.php:413
+msgid "Welcome to TAQYEEM!"
+msgstr "Добро пожаловать в TAQYEEM!"
+
+# @ taq
+#: taqyeem-panel.php:415
+msgid "Thank you for purchasing the TAQYEEM plugin, a WordPress plugin by <a href=\"http://tielabs.com/\" target=\"_blank\">TieLabs</a>."
+msgstr "Благодарим Вас за покупку плагина TAQYEEM WordPress <a href=\"http://tielabs.com/\" target=\"_blank\">TieLabs.</a>."
+
+# @ taq
+#: taqyeem-panel.php:418
+msgid "Need Help?"
+msgstr "Нужна помощь?"
+
+# @ taq
+#: taqyeem-panel.php:420
+msgid "Plugin Docs"
+msgstr "Документация по плагинам"
+
+# @ taq
+#: taqyeem-panel.php:421
+msgid "Support"
+msgstr "Поддержка"
+
+# @ taq
+#: taqyeem-panel.php:426
+msgid "Rate Taqyeem"
+msgstr "Оцените Taqyeem"
+
+# @ taq
+#: taqyeem-panel.php:427
+msgid "If you like Taqyeem, please don’t forget to <a target=\"_blank\" href=\"http://themeforest.net/downloads?ref=tielabs\">rate it</a>"
+msgstr "Если Вам нравится Taqyeem, пожалуйста , не забудьте <a target=\"_blank\" href=\"http://themeforest.net/downloads?ref=tielabs\">оценить его</a>"
+
+# @ taq
+#: taqyeem-panel.php:434
+msgid "Taqyeem Add-ons"
+msgstr "Taqyeem дополнения"
+
+# @ taq
+#: taqyeem-panel.php:443
+msgid "GET IT NOW"
+msgstr "ПОЛУЧИТЬ СЕЙЧАС"
+
+# @ taq
+#: taqyeem-panel.php:459
+msgid "Show Review Boxes in the singular pages only ?"
+msgstr "Показать поля комментариев только в особых страницах ?"
+
+# @ taq
+#: taqyeem-panel.php:462
+msgid "Enable in Single page only ?"
+msgstr "Включить только на отдельной странице?"
+
+# @ taq
+#: taqyeem-panel.php:466
+msgid "Enable it if your theme uses ' the_content() ' in homepage and archives pages and you want to show post review box in the single post page only !"
+msgstr "Включите, если ваша тема использует «the_content()» в главной странице и архиве страниц, а вы хотите, чтобы отзывы показывались только на отдельной странице !"
+
+# @ taq
+#: taqyeem-panel.php:470 taqyeem-panel.php:473
+msgid "Who Is Allowed To Rate ?"
+msgstr "Кто может оценивать?"
+
+# @ taq
+#: taqyeem-panel.php:476
+msgid "No One !"
+msgstr "Никто!"
+
+# @ taq
+#: taqyeem-panel.php:477
+msgid "Registered Users And Guests"
+msgstr "Зарегистрированным пользователям и гостям"
+
+# @ taq
+#: taqyeem-panel.php:478
+msgid "Guests Only"
+msgstr "Только гости"
+
+# @ taq
+#: taqyeem-panel.php:479
+msgid "Registered Users Only"
+msgstr "Только зарегистрированные пользователи"
+
+# @ taq
+#: taqyeem-panel.php:483 taqyeem-panel.php:486
+msgid "Ratings Image"
+msgstr "Изображения рейтинга"
+
+# @ taq
+#: taqyeem-panel.php:497
+msgid "Structured Data"
+msgstr "Структурированные Данные"
+
+# @ taq
+#: taqyeem-panel.php:501
+msgid "Enable Structured Data"
+msgstr "Включить структурированные данные"
+
+# @ taq
+#: taqyeem-panel.php:508
+msgid "Default Structured Data"
+msgstr "Структурированные данные по умолчанию"
+
+# @ taq
+#: taqyeem-panel.php:512 taqyeem-posts.php:110
+msgid "Product"
+msgstr "Товар"
+
+# @ taq
+#: taqyeem-panel.php:513 taqyeem-posts.php:111
+msgid "Book"
+msgstr "Книга"
+
+# @ taq
+#: taqyeem-panel.php:514 taqyeem-posts.php:112
+msgid "Movie"
+msgstr "Видео"
+
+# @ taq
+#: taqyeem-panel.php:515 taqyeem-posts.php:113
+msgid "Game"
+msgstr "Игра"
+
+# @ taq
+#: taqyeem-panel.php:516 taqyeem-posts.php:114
+msgid "Event"
+msgstr "Мероприятие"
+
+# @ taq
+#: taqyeem-panel.php:517 taqyeem-posts.php:115
+msgid "Course"
+msgstr "Курс"
+
+# @ taq
+#: taqyeem-panel.php:518 taqyeem-posts.php:116
+msgid "Organization"
+msgstr "Организация"
+
+# @ taq
+#: taqyeem-panel.php:519 taqyeem-posts.php:117
+msgid "MusicRecording"
+msgstr "Запись музыки"
+
+# @ taq
+#: taqyeem-panel.php:520 taqyeem-posts.php:118
+msgid "MusicPlaylist"
+msgstr "Список воспроизведения музыки"
+
+# @ taq
+#: taqyeem-panel.php:521 taqyeem-posts.php:119
+msgid "Episode"
+msgstr "Эпизод"
+
+# @ taq
+#: taqyeem-panel.php:522 taqyeem-posts.php:120
+msgid "Restaurant"
+msgstr "Ресторан"
+
+# @ taq
+#: taqyeem-panel.php:542
+msgid "Review Box Outer Border"
+msgstr "Блок отзыва - внешняя рамка"
+
+# @ taq
+#: taqyeem-panel.php:547
+msgid "Review Box Header & Footer Background"
+msgstr "Блок отзыва - фон шапки и футера"
+
+# @ taq
+#: taqyeem-panel.php:552
+msgid "Review items Background"
+msgstr "Фон элементов отзыва"
+
+# @ taq
+#: taqyeem-panel.php:557
+msgid "Final Score and percentage bar Background"
+msgstr "Фон панели окончательной оценки и процентов"
+
+# @ taq
+#: taqyeem-panel.php:562
+msgid "Links Color"
+msgstr "Цвет ссылок"
+
+# @ taq
+#: taqyeem-panel.php:567
+msgid "Links Decoration"
+msgstr "Оформление ссылки"
+
+# @ taq
+#: taqyeem-panel.php:577
+msgid "Links Color on mouse over"
+msgstr "Цвет ссылок при наведении курсора"
+
+# @ taq
+#: taqyeem-panel.php:582
+msgid "Links Decoration on mouse over"
+msgstr "Преобразование ссылок при наведении курсора"
+
+# @ taq
+#: taqyeem-panel.php:596
+msgid "Custom CSS"
+msgstr "Ваш CSS"
+
+# @ taq
+#: taqyeem-panel.php:598
+msgid "Global CSS :"
+msgstr "Глобальный CSS:"
+
+# @ taq
+#: taqyeem-panel.php:602
+msgid "Tablets CSS :"
+msgstr "Планшеты CSS:"
+
+# @ taq
+#: taqyeem-panel.php:602
+msgid "Width from 768px to 985px"
+msgstr "Ширина от 768px до 985px"
+
+# @ taq
+#: taqyeem-panel.php:606
+msgid "Wide Phones CSS :"
+msgstr "Широкие смартфоны CSS:"
+
+# @ taq
+#: taqyeem-panel.php:606
+msgid "Width from 480px to 767px"
+msgstr "Ширина от 768рx до 985рx"
+
+# @ taq
+#: taqyeem-panel.php:610
+msgid "Phones CSS :"
+msgstr "CSS для мобильных :"
+
+# @ taq
+#: taqyeem-panel.php:610
+msgid "Width from 320px to 479px"
+msgstr "Ширина от 320рx до 479рx"
+
+# @ taq
+#: taqyeem-panel.php:621
+msgid "Character sets"
+msgstr "Наборы символов"
+
+# @ taq
+#: taqyeem-panel.php:622
+msgid "<strong>Tip:</strong> If you choose only the languages that you need, you'll help prevent slowness on your webpage."
+msgstr "<strong>Совет:</strong> Выбор только нужных языков ускорит загрузку страницы."
+
+# @ taq
+#: taqyeem-panel.php:625
+msgid "Latin Extended"
+msgstr "Расширенная латиница"
+
+# @ taq
+#: taqyeem-panel.php:630
+msgid "Cyrillic"
+msgstr "Кириллица"
+
+# @ taq
+#: taqyeem-panel.php:635
+msgid "Cyrillic Extended"
+msgstr "Расширенная кириллица"
+
+# @ taq
+#: taqyeem-panel.php:640
+msgid "Greek"
+msgstr "Греческий"
+
+# @ taq
+#: taqyeem-panel.php:645
+msgid "Greek Extended"
+msgstr "Греческий расширенный"
+
+# @ taq
+#: taqyeem-panel.php:655 taqyeem-posts.php:82
+msgid "Review Box Title"
+msgstr "Заголовок отзыва"
+
+# @ taq
+#: taqyeem-panel.php:660
+msgid "Review Items"
+msgstr "Элементы отзыва"
+
+# @ taq
+#: taqyeem-panel.php:665 taqyeem-posts.php:98
+msgid "Review Summary"
+msgstr "Суммарная оценка"
+
+# @ taq
+#: taqyeem-panel.php:670
+msgid "Total Score"
+msgstr "Общая оценка"
+
+# @ taq
+#: taqyeem-panel.php:675
+msgid "Final opinion Text"
+msgstr "Окончательный текст заключения"
+
+# @ taq
+#: taqyeem-panel.php:680
+msgid "User Rating"
+msgstr "Пользовательская оценка"
+
+# @ taq
+#: taqyeem-panel.php:701
+msgid "Export"
+msgstr "Экспорт"
+
+# @ taq
+#: taqyeem-panel.php:707
+msgid "Import"
+msgstr "Импорт"
+
+# @ taq
+#: taqyeem-panel.php:723
+msgid "All settings will be reset .. Are you sure ?"
+msgstr "Все настройки будут сброшены. Вы уверены?"
+
+# @ taq
+#: taqyeem-panel.php:723
+msgid "Reset Settings"
+msgstr "Сбросить настройки"
+
+# @ taq
+#: taqyeem-posts.php:14
+msgid "Review Options"
+msgstr "Настройки отзывов"
+
+# @ taq
+#: taqyeem-posts.php:47
+msgid "Review Box Position"
+msgstr "Положение Блока Отзывов"
+
+# @ taq
+#: taqyeem-posts.php:51
+msgid "Disable"
+msgstr "Отключить"
+
+# @ taq
+#: taqyeem-posts.php:52
+msgid "Top of the post"
+msgstr "Выше записи"
+
+# @ taq
+#: taqyeem-posts.php:53
+msgid "Bottom of the post"
+msgstr "Ниже записи"
+
+# @ taq
+#: taqyeem-posts.php:54
+msgid "Custom position"
+msgstr "Произвольное рассположение"
+
+# @ taq
+#: taqyeem-posts.php:60
+#, php-format
+msgid "Use <strong>[taq_review]</strong> shortcode to place the review box in any place within post content or use <strong> %s </strong> Widget ."
+msgstr "Используйте <strong>[taq_review]</strong> шорткод, чтобы поместить поле отзыва в любом месте в пределах содержания записи или используйте <strong> %s </strong> виджет."
+
+# @ taq
+#: taqyeem-posts.php:71
+msgid "Review Style"
+msgstr "Стиль отзыва"
+
+# @ taq
+#: taqyeem-posts.php:75
+msgid "Image"
+msgstr "Изображение"
+
+# @ taq
+#: taqyeem-posts.php:76
+msgid "Percentage"
+msgstr "Проценты"
+
+# @ taq
+#: taqyeem-posts.php:77
+msgid "Points"
+msgstr "Баллы"
+
+# @ taq
+#: taqyeem-posts.php:89
+msgid "Text appears under the total score"
+msgstr "Текст итоговой оценки"
+
+# @ taq
+#: taqyeem-posts.php:105
+msgid "Structured Data Type"
+msgstr "Структурированный тип данных"
+
+# @ taq
+#: taqyeem-posts.php:109
+msgid "Default"
+msgstr "По умолчанию"
+
+# @ taq
+#: taqyeem-posts.php:126
+msgid "Product Description"
+msgstr "Описание товара"
+
+# @ taq
+#: taqyeem-posts.php:134
+msgid "Product URL"
+msgstr "URL товара"
+
+# @ taq
+#: taqyeem-posts.php:142
+msgid "Brand"
+msgstr "Бренд"
+
+# @ taq
+#: taqyeem-posts.php:150
+msgid "SKU"
+msgstr "Артикул"
+
+# @ taq
+#: taqyeem-posts.php:158
+msgid "MPN Number"
+msgstr "Номер MPN"
+
+# @ taq
+#: taqyeem-posts.php:166
+msgid "GTIN Number"
+msgstr "Номер GTIN"
+
+# @ taq
+#: taqyeem-posts.php:174
+msgid "Product Availability"
+msgstr "Доступность товара"
+
+# @ taq
+#: taqyeem-posts.php:179
+msgid "InStock"
+msgstr "В наличии"
+
+# @ taq
+#: taqyeem-posts.php:180
+msgid "OutOfStock"
+msgstr "Нет на складе"
+
+# @ taq
+#: taqyeem-posts.php:185
+msgid "Product Price"
+msgstr "Цена товара"
+
+# @ taq
+#: taqyeem-posts.php:193
+msgid "Product Price Currency ( Three-letter ISO 4217 format )"
+msgstr "Валюта цены товара (Трехписьменый формат ISO 4217)"
+
+# @ taq
+#: taqyeem-posts.php:201
+msgid "Product Valid Until ( YYYY-MM-DD )"
+msgstr "Товар действителен до тех пор, пока ( YYYY-MM-DD )"
+
+# @ taq
+#: taqyeem-posts.php:210
+msgid "Location Name"
+msgstr "Название места"
+
+# @ taq
+#: taqyeem-posts.php:218
+msgid "Location Address"
+msgstr "Адрес местоположения"
+
+# @ taq
+#: taqyeem-posts.php:226
+msgid "Event Description"
+msgstr "Описание мероприятия"
+
+# @ taq
+#: taqyeem-posts.php:234
+msgid "Start date ( YYYY-MM-DD )"
+msgstr "Дата начала (YYYY-MM-DD )"
+
+# @ taq
+#: taqyeem-posts.php:242
+msgid "End date ( YYYY-MM-DD )"
+msgstr "Дата окончания ( YYYY-MM-DD )"
+
+# @ taq
+#: taqyeem-posts.php:251
+msgid "Author"
+msgstr "Автор"
+
+# @ taq
+#: taqyeem-posts.php:259
+msgid "Author URL"
+msgstr "URL Автора"
+
+# @ taq
+#: taqyeem-posts.php:267
+msgid "ISBN"
+msgstr "ISBN"
+
+# @ taq
+#: taqyeem-posts.php:276
+msgid "Movie URL"
+msgstr "URL-адрес фильма"
+
+# @ taq
+#: taqyeem-posts.php:284
+msgid "Movie Date"
+msgstr "Дата фильма"
+
+# @ taq
+#: taqyeem-posts.php:292
+msgid "Director"
+msgstr "Режиссер"
+
+# @ taq
+#: taqyeem-posts.php:301
+msgid "Description"
+msgstr "Описание"
+
+# @ taq
+#: taqyeem-posts.php:309
+msgid "Provider"
+msgstr "Поставщик услуги"
+
+# @ taq
+#: taqyeem-posts.php:318
+msgid "Address"
+msgstr "Адрес"
+
+# @ taq
+#: taqyeem-posts.php:326
+msgid "Price"
+msgstr "По цене"
+
+# @ taq
+#: taqyeem-posts.php:334
+msgid "Cuisine"
+msgstr "Кухня"
+
+# @ taq
+#: taqyeem-posts.php:342
+msgid "Telephone"
+msgstr "Телефон"
+
+# @ taq
+#: taqyeem-posts.php:352
+msgid "Add New Review Criteria"
+msgstr "Добавить Новые Критерии оценки"
+
+# @ taq
+#: taqyeem-widgets.php:66
+msgid "Review Overview"
+msgstr "Обзор отзыва"
+
+# @ taq
+#: taqyeem-widgets.php:70
+msgid "This Widget appears in single post only ."
+msgstr "Этот виджет показывается только в отдельной записи."
+
+# @ taq
+#: taqyeem-widgets.php:73 taqyeem-widgets.php:184 taqyeem-widgets.php:324
+msgid "Title : "
+msgstr "Заголовок : "
+
+# @ taq
+#: taqyeem-widgets.php:155 taqyeem-widgets.php:206 taqyeem-widgets.php:300
+#: taqyeem-widgets.php:347
+msgid "Best Reviews"
+msgstr "Лучшие рейтинги"
+
+# @ taq
+#: taqyeem-widgets.php:189 taqyeem-widgets.php:329
+msgid "Number of posts to show :"
+msgstr "Количество отображаемых сообщений:"
+
+# @ taq
+#: taqyeem-widgets.php:194
+msgid "Categories :"
+msgstr "Категории:"
+
+# @ taq
+#: taqyeem-widgets.php:202 taqyeem-widgets.php:343
+msgid "Posts Order :"
+msgstr "Сортировка записей:"
+
+# @ taq
+#: taqyeem-widgets.php:204 taqyeem-widgets.php:345
+msgid "Recent Reviews"
+msgstr "Новые отзывы"
+
+# @ taq
+#: taqyeem-widgets.php:205 taqyeem-widgets.php:346
+msgid "Random Reviews"
+msgstr "Случайные отзывы"
+
+# @ taq
+#: taqyeem-widgets.php:211 taqyeem-widgets.php:352
+msgid "Display Thumbinals"
+msgstr "Отображать миниатюры"
+
+# @ taq
+#: taqyeem-widgets.php:218 taqyeem-widgets.php:359
+msgid "Thumbinals Size :"
+msgstr "Размер миниатюры:"
+
+# @ taq
+#: taqyeem-widgets.php:334
+msgid "Post Types :"
+msgstr "Типы записей :"
+
+# @ taq
+#: taqyeem.php:598
+msgid "No Ratings Yet !"
+msgstr "Нет рейтинга"
+
+# @ taq
+#: taqyeem.php:602
+msgid "Be the first one !"
+msgstr "Вы можете быть первым!"
+
+# @ taq
+#: taqyeem.php:640 taqyeem.php:660 taqyeem.php:997
+msgid "Your Rating:"
+msgstr "Ваша оценка:"
+
+# @ taq
+#: taqyeem.php:642 taqyeem.php:662 taqyeem.php:701
+msgid "votes"
+msgstr "голосов"
+
+# @ taq
+#: taqyeem.php:679 taqyeem.php:699
+msgid "User Rating:"
+msgstr "Оценка пользователя:"
+
+# @ taq
+#: taqyeem.php:801 taqyeem.php:807 taqyeem.php:867 taqyeem.php:873
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+# @ taq
+#: taqyeem.php:814 taqyeem.php:879
+msgid "No Posts"
+msgstr "Нет записей"
+
+# @ taq
+#: updater.php:111 updater.php:112
+msgid "New Update"
+msgstr "Новое обновление"
+
+# @ taq
+#: verification.php:86
+msgid "Congratulations"
+msgstr "Поздравляем"
+
+# @ taq
+#: verification.php:87
+msgid "Your Taqyeem License is now validated."
+msgstr "Ваша лицензия Taqyeem теперь проверена."
+
+# @ taq
+#: verification.php:99
+msgid "Your Taqyeem license is not validated. Click on the link below to unlock auto update and access to premium support, please note, a separate license is required for each site using the plugin."
+msgstr "Ваша лицензия Taqyeem не подтверждена. Нажмите на ссылку ниже, чтобы разблокировать автоматическое обновление и доступ к премиум-поддержки, обратите внимание, отдельная лицензия требуется для каждого сайта с помощью плагина."
+
+# @ taq
+#: verification.php:107
+msgid "Verify Now!"
+msgstr "Подтвердить сейчас!"
+
+# @ taq
+#: verification.php:110 verification.php:146
+msgid "Buy a License"
+msgstr "Купить новую лицензию"
+
+# @ taq
+#: verification.php:121
+msgid "Authorization Failed"
+msgstr "Авторизация не удалась"
+
+# @ taq
+#: verification.php:139
+msgid "ERROR"
+msgstr "Ошибка"
+
+# @ taq
+#: verification.php:143
+msgid "Try again"
+msgstr "Попробуйте снова"
